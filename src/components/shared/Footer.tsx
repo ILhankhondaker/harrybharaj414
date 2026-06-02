@@ -15,7 +15,7 @@ const Footer = () => {
         <div>
           <div className="flex justify-center items-center pt-[280px] lg:pt-[120px]">
             <Image
-              src="/logo.png"
+              src="/logo5.png"
               width={210}
               height={80}
               alt="Company Logo"
@@ -79,7 +79,7 @@ const Footer = () => {
         <hr />
 
         <p className="text-[#6C757D] text-center font-normal text-[12px] py-5">
-          &copy; 2077 Untitled UI. All rights reserved.
+          &copy; 2026 Untitled UI. All rights reserved.
         </p>
       </div>
     </footer>
